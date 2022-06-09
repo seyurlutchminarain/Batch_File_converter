@@ -1,0 +1,16 @@
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/bin/Debug/net6.0/BaNCS_NFR-Summary-20220518_093037.txt
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/bin/Debug/net6.0/BatchFileConverter
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/bin/Debug/net6.0/BatchFileConverter.deps.json
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/bin/Debug/net6.0/BatchFileConverter.runtimeconfig.json
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/bin/Debug/net6.0/BatchFileConverter.dll
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/bin/Debug/net6.0/BatchFileConverter.pdb
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/BatchFileConverter.csproj.AssemblyReference.cache
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/BatchFileConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/BatchFileConverter.AssemblyInfoInputs.cache
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/BatchFileConverter.AssemblyInfo.cs
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/BatchFileConverter.csproj.CoreCompileInputs.cache
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/BatchFileConverter.dll
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/refint/BatchFileConverter.dll
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/BatchFileConverter.pdb
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/BatchFileConverter.genruntimeconfig.cache
+/Users/seyurlutchminarain/Projects/BatchFileConverter/BatchFileConverter/obj/Debug/net6.0/ref/BatchFileConverter.dll
